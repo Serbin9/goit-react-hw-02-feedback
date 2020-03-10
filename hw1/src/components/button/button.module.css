@@ -1,0 +1,17 @@
+.buttonGood:hover{
+    background-color: yellowgreen;
+}
+.buttonNeutral:hover{
+    background: orange;
+}
+.buttonBad:hover{
+    background-color: red;
+}
+
+.buttonGood,
+.buttonNeutral,
+.buttonBad{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
